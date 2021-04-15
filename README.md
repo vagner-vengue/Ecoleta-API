@@ -16,7 +16,7 @@ Ecoleta front-end was developed in mobile and web versions. Repository: https://
 
 
 ## 💡 The application
-🚧 Em construção... 🚧
+🚧 In construction... 🚧
 
 ## 🎲 How to clone the project
 
