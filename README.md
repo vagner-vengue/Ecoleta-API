@@ -16,7 +16,14 @@ Ecoleta front-end was developed in mobile and web versions. Repository: https://
 
 
 ## 💡 The application
-🚧 In construction... 🚧
+
+<p align="left" style="display: flex; align-items: flex-start; justify-content: center;">
+    <img alt="Get Points" title="#GetPoints" src="./github-assets/EcoletaAPI_GetPoints.png" width="700">
+</p>
+<p align="left" style="display: flex; align-items: flex-start; justify-content: center;">
+    <img alt="Get Items" title="#GetItems" src="./github-assets/EcoletaAPI_GetItems.png" width="700">
+</p>
+
 
 ## 🎲 How to clone the project
 
